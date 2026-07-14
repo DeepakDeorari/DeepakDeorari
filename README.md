@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeepakDeorari
-- 👀 I’m interested in Software engineering.
-- 🌱 I’m currently learning Express.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m in DevOps and AI.
+- 🌱 Currently having 5+ years of experiene in DevOps/SRE/SecOps
+- 💞️ I’m looking to explore new oppotunities as an AI Infrastructure Engineer/MLOps/LLMOps
 - 📫 How to reach me (deepakdeorari2001@gmail.com)
 
 <!---
