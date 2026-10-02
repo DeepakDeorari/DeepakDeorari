@@ -1,14 +1,17 @@
 - 👋 Hi, I’m @DeepakDeorari
 - 👀 I’m in DevOps and AI.
 
-- PROFILE:
+PROFILE:
+
 AI Infrastructure and Site Reliability Engineer with 5+ years of experience building scalable Kubernetes platforms across AWS, GCP, Oracle
 Cloud, and on-premises environments. Hands-on experience designing a multi-node, dual-GPU LLM inference platform with NVIDIA A10G
 GPUs, vLLM, Qwen, Phi-3, FastAPI-based RAG, Qdrant, Open WebUI, Prometheus, Grafana, Loki, Tempo, and OpenTelemetry. Proven
 impact includes up to 35% cloud-cost reduction, 70% faster deployments, 40% faster incident detection, near-zero-downtime migrations, and
 production reliability practices using SLAs, SLOs, error budgets, failure engineering, and on-call operations.
+____
 
 CORE SKILLS:
+
 AI Infrastructure: vLLM, LLM inference, GPU scheduling, NVIDIA A10G, CUDA concepts, NVIDIA GPU Operator, Qwen, Phi-3,
 OpenAI-compatible APIs, multi-model serving, RAG, embeddings, Qdrant, model benchmarking
 
